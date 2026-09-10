@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umrt-areas.pages.dev/sitemap.xml
